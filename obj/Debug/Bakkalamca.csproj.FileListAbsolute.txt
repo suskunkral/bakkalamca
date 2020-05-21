@@ -1,0 +1,10 @@
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\bin\Debug\Bakkalamca.exe.config
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\bin\Debug\Bakkalamca.exe
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\bin\Debug\Bakkalamca.pdb
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.csprojAssemblyReference.cache
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.Form1.resources
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.Properties.Resources.resources
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.csproj.GenerateResource.cache
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.csproj.CoreCompileInputs.cache
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.exe
+C:\Users\mezar\Desktop\Cbaslangicim\Bakkalamca\Bakkalamca\Bakkalamca\obj\Debug\Bakkalamca.pdb
